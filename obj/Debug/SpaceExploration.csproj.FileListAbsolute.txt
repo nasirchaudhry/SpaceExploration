@@ -1,0 +1,6 @@
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.exe.config
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.exe
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.pdb
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\obj\Debug\SpaceExploration.exe
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\obj\Debug\SpaceExploration.pdb
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\obj\Debug\SpaceExploration.csprojResolveAssemblyReference.cache
